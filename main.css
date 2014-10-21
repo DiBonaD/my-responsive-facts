@@ -1,0 +1,52 @@
+p{
+	display:none;
+}
+@media(max-width: 1200px){
+	.fact1{
+		display:block;
+	}
+	body{
+		background: #0099FF;
+	}
+}
+@media(max-width: 1050px){
+	.fact2{
+		display: block;
+	}
+	body{
+		background: #66FF66;
+	}
+
+}
+@media(max-width: 900px){
+	.fact3{
+		display: block;
+	}
+	body{
+		background: #FFCCFF; 
+	}
+}
+@media(max-width: 750px){
+	.fact4{
+		display: block;
+	}
+	body{
+		background: #D1D1E0;
+	}
+}
+@media(max-width: 500px){
+	.fact5{
+		display: block;
+	}
+	body{
+		background: #CCFFFF;
+	}
+}
+@media(max-width: 350px){
+	.fact6{
+		display: block;
+	}
+	body{
+		background: #E0CCF5;
+	}
+}
